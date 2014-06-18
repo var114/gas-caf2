@@ -178,16 +178,10 @@ foodListProps = {
       placeholder: "Unique name"
     }
   },
-  quantity: {
+  teaser: {
     className: "form-control",
     attr: {
-      placeholder: "5 in 1 bag"
-    }
-  },
-  value: {
-    className: "form-control",
-    attr: {
-      placeholder: "19"
+      placeholder: ""
     }
   },
   ingredients: {
